@@ -7,3 +7,5 @@ edition = "2021"
 
 [build-dependencies]
 cmake = "0.1.50"
+regex = "1.10.2"
+
