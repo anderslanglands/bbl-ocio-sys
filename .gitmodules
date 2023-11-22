@@ -1,0 +1,3 @@
+[submodule "bbl-ocio"]
+	path = bbl-ocio
+	url = git@github.com:anderslanglands/bbl-ocio.git
